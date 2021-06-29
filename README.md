@@ -25,3 +25,11 @@ eli5: 항목의 중요도를 보여주고 의사결정 트리, 트리기반 앙�
 ### 😍민지
 
 ### 😍성윤
+
+keywords : default parameter -> select best features -> run grid search -> train best model -> feature selection of each models
+
+models used : Logistic Regression, AdaBoost Classifier, SGD Classifier, SVC
+
+![image](https://user-images.githubusercontent.com/81219515/123797194-e63efa80-d920-11eb-836c-1c3e21bc8f33.png)
+
+![image](https://user-images.githubusercontent.com/81219515/123797236-f1922600-d920-11eb-9fdc-f3832a4cf7ed.png)
